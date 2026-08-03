@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
-
 <h3><code>ayushtechera@github ~ $ whoami</code></h3>
 
 <table>
@@ -17,9 +11,6 @@
 
 <br>
 <br>
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <h3><code>ayushtechera@github ~ $ ./contributions.sh</code></h3>
 
@@ -39,4 +30,4 @@
 
 <br>
 
-</div>
+</div>s
