@@ -24,7 +24,7 @@
 <p><b>Full Stack Developer · Tech Enthusiast · Problem Solver</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayushtechera-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushtechera)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtechera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kashyap-593b9b28a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayushtechera.com-22d3ee?style=for-the-badge&logo=vercel&logoColor=black)](https://ayushtechera.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
 
