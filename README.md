@@ -2,7 +2,7 @@
 
 ![3D Wordmark Banner](./wordmark-rock.svg)
 
----
+
 
 <table>
 <tr>
@@ -38,12 +38,11 @@ I'm a **Full Stack Developer** passionate about building scalable applications a
 </tr>
 </table>
 
----
 
 ## 📊 My GitHub Activity
 
 ![GitHub Contributions](./contrib-heatmap.svg)
 
----
+
 
 ### ✨ **Profile art auto-refreshes daily**
