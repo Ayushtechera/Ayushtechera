@@ -1,5 +1,3 @@
-# 
-
 ![3D Wordmark Banner](./wordmark-rock.svg)
 
 ---
