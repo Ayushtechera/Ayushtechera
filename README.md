@@ -4,8 +4,6 @@
 
 ---
 
-## 👋 Welcome to my GitHub!
-
 <table>
 <tr>
 <td width="45%">
