@@ -21,7 +21,7 @@
 
 <h3><code>ayushtechera@github ~ $ ./links.sh</code></h3>
 
-<p><b>Full Stack Developer · Tech Enthusiast · Problem Solver</b></p>
+<p><b>AIBuilder · Tech Enthusiast</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayushtechera-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushtechera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kashyap-593b9b28a/)
