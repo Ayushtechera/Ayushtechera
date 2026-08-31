@@ -1,22 +1,22 @@
 {
   "username": "Ayushtechera",
-  "generated_at": "2026-08-30T11:59:44Z",
+  "generated_at": "2026-08-31T14:01:24Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 360,
+  "active_days": 81,
+  "avg_per_active_day": 4.4,
+  "current_streak": {
+    "length": 55,
+    "start": "2026-07-07",
     "end": "2026-08-30"
   },
-  "total_contributions": 359,
-  "active_days": 80,
-  "avg_per_active_day": 4.5,
-  "current_streak": {
-    "length": 54,
-    "start": "2026-07-07",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 54,
+    "length": 55,
     "start": "2026-07-07",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-06-24",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 131
+      "total": 132
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
